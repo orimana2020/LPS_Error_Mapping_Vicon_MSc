@@ -21,7 +21,7 @@ I sampled the space for several LPS antenna configuration
 
 finally I intepolated the samples to get the error map of the workspace:
 
-<img src="pictures/7.png" alt="alt text" width="400" height="200">
+<img src="pictures/7.png" alt="alt text" width="600" height="300">
 
 
 now, I can account for possioning error as function of drone position (x,y,z)
