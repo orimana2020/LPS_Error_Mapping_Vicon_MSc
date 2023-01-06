@@ -10,3 +10,7 @@ first, I cablibrated the LPS and Vicon coordinates system
 then I placed reflective markers on the drone:
 
 ![picture1](pictures/1.jpg)
+
+
+ <img src="pictures/1.jpg" alt="alt text" width="100" height="100">
+
