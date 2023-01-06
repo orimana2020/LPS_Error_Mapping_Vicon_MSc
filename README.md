@@ -13,3 +13,7 @@ then I placed reflective markers on the drone:
 
  <img src="pictures/1.jpg" alt="alt text" width="400" height="400">
 
+
+I sampled the space for several LPS antenna configuration
+
+<img src="pictures/6.jpg" alt="alt text" width="200" height="400">
