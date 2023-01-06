@@ -10,8 +10,13 @@ first, I cablibrated the LPS and Vicon coordinates system
 then I placed reflective markers on the drone:
 
 
-
  <img src="pictures/1.jpg" alt="alt text" width="400" height="400">
+ 
+
+I got the drone position from the Vicon system and from LPS system and calculated the error:
+
+
+<img src="pictures/4.jpeg" alt="alt text" width="300" height="400">
 
 
 I sampled the space for several LPS antenna configuration
