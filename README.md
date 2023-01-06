@@ -9,4 +9,4 @@ first, I cablibrated the LPS and Vicon coordinates system
 
 then I placed reflective markers on the drone:
 
-![picture1](pictures/1.npg)
+![picture1](pictures/1.jpg)
